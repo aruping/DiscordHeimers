@@ -28,5 +28,14 @@ Take your time to understand this part.
 
 **My Discord Name: lordexhub**
 
+# Download
+
+``
+pip install discord
+pip install asyncio
+git clone https://github.com/aruping/DiscordHeimers
+cd DiscordHeimers
+python3 main.py
+``
 
 ![NIGGER 😀](https://r.resimlink.com/Uf8qCW2ve.gif)
