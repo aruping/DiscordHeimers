@@ -25,9 +25,6 @@ Take your time to understand this part.
 **Note:** You can customize the prefix as you prefer!
 
 
-
-**My Discord Name: lordexhub**
-
 # Download
 
 ```
