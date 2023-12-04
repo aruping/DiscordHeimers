@@ -31,8 +31,7 @@ Take your time to understand this part.
 # Download
 
 ```
-pip install discord
-pip install asyncio
+pip install discord asyncio
 git clone https://github.com/aruping/DiscordHeimers
 cd DiscordHeimers
 python3 main.py
